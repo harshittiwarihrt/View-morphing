@@ -1,5 +1,5 @@
 # View Morphing
-Final group projec
+Final group project
 
 Morphing two mirrored images of a face seen from the side to get a front-view of the face. 
 
